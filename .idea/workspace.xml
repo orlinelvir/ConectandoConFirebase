@@ -6,22 +6,34 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a196537-f18e-4447-a3de-ec5039a594b5" name="Default Changelist" comment="" />
+    <list default="true" id="5a196537-f18e-4447-a3de-ec5039a594b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ConectandoConFirebase/app/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1liRIwDI78kzpq435yXDcLrrS7T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -35,24 +47,56 @@
       <option name="presentableId" value="Default" />
       <updated>1608077848899</updated>
     </task>
+    <task id="LOCAL-00001" summary="Prueba">
+      <created>1608079683679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608079683679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prueba" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1608078229881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1608078229881" />
+    <state x="534" y="89" key="CommitChangelistDialog2" timestamp="1608079682316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="534" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608079682316" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608079179911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608079179911" />
+    <state x="801" y="418" key="Github.ShareDialog" timestamp="1608079512633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608079512633" />
+    <state x="652" y="225" key="Github.UntrackedFilesDialog" timestamp="1608079522416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608079522416" />
     <state x="540" y="263" key="IDE.errors.dialog" timestamp="1608078210086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608078210086" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1608079490616">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1608080568790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608079490616" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608080568790" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608079691757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608079691757" />
+    <state x="647" y="308" key="git4idea.merge.GitPullDialog" timestamp="1608079611725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608079611725" />
   </component>
 </project>
