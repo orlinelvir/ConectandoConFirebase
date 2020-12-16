@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a196537-f18e-4447-a3de-ec5039a594b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ConectandoConFirebase/app/build.gradle" afterDir="false" />
     </list>
@@ -54,22 +53,30 @@
       <option name="project" value="LOCAL" />
       <updated>1608079683679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Conexion con firebase">
+      <created>1608080738704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608080738704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Prueba" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prueba" />
+    <MESSAGE value="Conexion con firebase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conexion con firebase" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1608078229881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1608078229881" />
-    <state x="534" y="89" key="CommitChangelistDialog2" timestamp="1608079682316">
+    <state x="534" y="89" key="CommitChangelistDialog2" timestamp="1608080737321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="534" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608079682316" />
+    <state x="534" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608080737321" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608079179911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -86,14 +93,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608078210086" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1608080568790">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1608080970902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608080568790" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608079691757">
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608080970902" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608080742915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608079691757" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608080742915" />
     <state x="647" y="308" key="git4idea.merge.GitPullDialog" timestamp="1608079611725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

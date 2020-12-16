@@ -3,6 +3,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInClient
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount
@@ -25,6 +26,11 @@ class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
+
+        iniciarInvitado.setOnClickListener {
+            val intent: Intent = Intent(this, MainActivity1::class.java)
+            startActivity(intent)
+        }
 
         auth= FirebaseAuth.getInstance()
         initializeUI()
@@ -72,6 +78,8 @@ class LoginActivity : AppCompatActivity() {
                     googleFirebaseAuth(account)
                 }
             }catch (e: ApiException){
+                Log.w("err", e.toString())
+                Log.w("err", e.message.toString())
                 Toast.makeText(this,"Fallo inicio de sesión", Toast.LENGTH_LONG).show()
             }
         }
