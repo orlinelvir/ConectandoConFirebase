@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706393636896",
+    "project_id": "conectandoconfirebase-47385",
+    "storage_bucket": "conectandoconfirebase-47385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706393636896:android:065e054087fffa87f2bc45",
+        "android_client_info": {
+          "package_name": "com.example.conectandoconfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706393636896-0mlcudmjkipjm2b34h0lui438npgu627.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.conectandoconfirebase",
+            "certificate_hash": "b4ea33453b66af301447a39ec087deabb1220386"
+          }
+        },
+        {
+          "client_id": "706393636896-bk7i2471np4spu08adj6ooks8hh672gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQiBuRdoQ_aj69jPgvm8UiK0e1oY62368"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706393636896-bk7i2471np4spu08adj6ooks8hh672gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
