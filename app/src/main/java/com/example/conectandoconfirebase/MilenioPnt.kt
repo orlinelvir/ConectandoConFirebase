@@ -4,7 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_milenio_pnt.*
-
+import kotlinx.android.synthetic.main.activity_neurona_pnt.*
 
 class MilenioPnt : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

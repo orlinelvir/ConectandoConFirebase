@@ -27,10 +27,6 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        iniciarCorreo.setOnClickListener {
-            val intent: Intent = Intent(this, EmailLoginActivity::class.java)
-            startActivity(intent)
-        }
         iniciarInvitado.setOnClickListener {
             val intent: Intent = Intent(this, MainActivity1::class.java)
             startActivity(intent)
@@ -44,11 +40,12 @@ class LoginActivity : AppCompatActivity() {
 
     override fun onStart() {
         super.onStart()
-
+        //Validar que no exista otra instancia corriendo
         val usuario = FirebaseAuth.getInstance().currentUser
         if(usuario != null){
             val intent = Intent(this, MainActivity1::class.java)
             startActivity(intent)
+            //finish()
         }
     }
 
