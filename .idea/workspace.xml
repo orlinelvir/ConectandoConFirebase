@@ -5,105 +5,502 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a196537-f18e-4447-a3de-ec5039a594b5" name="Default Changelist" comment="">
+    <list default="true" id="2e9ea32e-1df7-4388-b6c4-4725b818ae51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/conectandoconfirebase/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/ChronosPnt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/GenesisPnt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/LoginActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/MainActivity1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/MainActivity2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/MainActivity3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/MainActivity4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/MilenioPnt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/NeuronaPnt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/backbtn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/botonpersonalizar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btngris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btnrojo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/categoria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/chronos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/genesis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/guest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/iniciodesesion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logoynombre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/milenio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/neurona.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_main1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_chronos_pnt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_genesis_pnt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_milenio_pnt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_neurona_pnt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/conectandoconfirebase/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ConectandoConFirebase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ConectandoConFirebase/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.idea/modules/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/androidTest/java/com/example/conectandoconfirebase/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/java/com/example/conectandoconfirebase/ChronosPnt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/java/com/example/conectandoconfirebase/GenesisPnt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/java/com/example/conectandoconfirebase/LoginActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/java/com/example/conectandoconfirebase/MainActivity1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/java/com/example/conectandoconfirebase/MainActivity2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/java/com/example/conectandoconfirebase/MainActivity3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/java/com/example/conectandoconfirebase/MainActivity4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/java/com/example/conectandoconfirebase/MilenioPnt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/java/com/example/conectandoconfirebase/NeuronaPnt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/backbtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/botonpersonalizar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/btngris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/btnrojo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/categoria.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/chronos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/genesis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/guest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/iniciodesesion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/logoynombre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/milenio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/drawable/neurona.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout-land/activity_main1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout/activity_chronos_pnt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout/activity_genesis_pnt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout/activity_main1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout/activity_main3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout/activity_main4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout/activity_milenio_pnt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/layout/activity_neurona_pnt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/app/src/test/java/com/example/conectandoconfirebase/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConectandoConFirebase/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3_XL_API_30]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ConectandoConFirebase" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ConectandoConFirebase" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ConectandoConFirebase" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1liRIwDI78kzpq435yXDcLrrS7T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1lG65xEo19Wd3y0AIBfNHCjXpWd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="e0929e15" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-09T04:25:18.359Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="recommended.upgrade.last.time.stamp" value="1607463439091" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-354880489">
+      <recent name="com.example.conectandoconfirebase" />
+    </key>
+    <key name="android.template.-538097825">
+      <recent name="com.example.conectandoconfirebase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Angel\Desktop\ConectandoConFirebase\app" />
+      <recent name="C:\Users\dskadmin\AndroidStudioProjects\ConectandoConFirebase\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Angel\AndroidStudioProjects\ConectandoConFirebase\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Angel\AndroidStudioProjects\ConectandoConFirebase\app" />
+    </key>
+    <key name="android.template.-278982330">
+      <recent name="com.example.conectandoconfirebase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Bibliotecas\Escritorio\ORIGIN PC\ConectandoConFirebase\ConectandoConFirebase" />
+      <recent name="C:\Users\dskadmin\AndroidStudioProjects\ConectandoConFirebase\app\src\main\res\drawable" />
+      <recent name="C:\Users\Angel\AndroidStudioProjects\ConectandoConFirebase\app\src\main\res\mipmap-anydpi-v26" />
+      <recent name="C:\Users\Angel\AndroidStudioProjects\ConectandoConFirebase\app\src\main\res\drawable-v24" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ConectandoConFirebase.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConectandoConFirebase [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ConectandoConFirebase [signingReport]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5a196537-f18e-4447-a3de-ec5039a594b5" name="Default Changelist" comment="" />
-      <created>1608077848899</created>
+      <changelist id="2e9ea32e-1df7-4388-b6c4-4725b818ae51" name="Default Changelist" comment="" />
+      <created>1607210906832</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608077848899</updated>
+      <updated>1607210906832</updated>
     </task>
-    <task id="LOCAL-00001" summary="Prueba">
-      <created>1608079683679</created>
+    <task id="LOCAL-00001" summary="Inicio de sesion con google y correo">
+      <created>1608162500613</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1608079683679</updated>
+      <updated>1608162500613</updated>
     </task>
-    <task id="LOCAL-00002" summary="Conexion con firebase">
-      <created>1608080738704</created>
+    <task id="LOCAL-00002" summary="Inicio de sesion con google y correo CORREGIDO">
+      <created>1608164957399</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1608080738704</updated>
+      <updated>1608164957399</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Prueba" />
-    <MESSAGE value="Conexion con firebase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conexion con firebase" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Inicio de sesion con google y correo" />
+    <MESSAGE value="Inicio de sesion con google y correo CORREGIDO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio de sesion con google y correo CORREGIDO" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1608078229881">
+    <state x="669" y="140" key="#app" timestamp="1608166366515">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1608078229881" />
-    <state x="534" y="89" key="CommitChangelistDialog2" timestamp="1608080737321">
+    <state x="669" y="140" key="#app/0.0.1920.1040@0.0.1920.1040" timestamp="1608166366515" />
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608044472276">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1280.0.1280.984/0.0.1440.860@0.0.1440.860" timestamp="1608044472276" />
+    <state x="123" y="111" width="1675" height="818" key="AVDManager" timestamp="1608164215683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="534" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608080737321" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608079179911">
+    <state x="92" y="92" width="1256" height="676" key="AVDManager/-1280.0.1280.984/0.0.1440.860@0.0.1440.860" timestamp="1607472826632" />
+    <state x="123" y="111" width="1675" height="818" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1608164215683" />
+    <state x="446" y="89" key="CommitChangelistDialog2" timestamp="1608164955539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608079179911" />
-    <state x="801" y="418" key="Github.ShareDialog" timestamp="1608079512633">
+    <state x="446" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608164955539" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1608046047397">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/-1280.0.1280.984/0.0.1440.860@0.0.1440.860" timestamp="1608046047397" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1608164519295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="801" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608079512633" />
-    <state x="652" y="225" key="Github.UntrackedFilesDialog" timestamp="1608079522416">
+    <state width="1397" height="221" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1440.860@0.0.1440.860" timestamp="1607487936444" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608164519295" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1608164519295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="652" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608079522416" />
-    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1608078210086">
+    <state width="1397" height="221" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1440.860@0.0.1440.860" timestamp="1607487936444" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608164519295" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1608164519294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608078210086" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1608080970902">
+    <state width="1397" height="221" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1440.860@0.0.1440.860" timestamp="1607487936443" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608164519294" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1608164519295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608080970902" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608080742915">
+    <state width="1397" height="221" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1440.860@0.0.1440.860" timestamp="1607487936444" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608164519295" />
+    <state width="1877" height="655" key="GridCell.Tab.1.bottom" timestamp="1608163922991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608080742915" />
-    <state x="647" y="308" key="git4idea.merge.GitPullDialog" timestamp="1608079611725">
+    <state width="1877" height="655" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608163922991" />
+    <state width="1877" height="655" key="GridCell.Tab.1.center" timestamp="1608163922991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="647" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608079611725" />
+    <state width="1877" height="655" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608163922991" />
+    <state width="1877" height="655" key="GridCell.Tab.1.left" timestamp="1608163922991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="655" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608163922991" />
+    <state width="1877" height="655" key="GridCell.Tab.1.right" timestamp="1608163922991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="655" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608163922991" />
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1608139753889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608139753889" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1608166375919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608166375919" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608166609920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608166609920" />
+    <state x="554" y="208" key="chooseDestDirectoryDialog" timestamp="1607465065754">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="554" y="208" key="chooseDestDirectoryDialog/-1280.0.1280.984/0.0.1440.860@0.0.1440.860" timestamp="1607465065754" />
+    <state x="616" y="208" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1607312701130" />
+    <state x="422" y="239" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1607471469782">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="422" y="239" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/-1280.0.1280.984/0.0.1440.860@0.0.1440.860" timestamp="1607471469782" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1607446649022">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1607446649022" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/conectandoconfirebase/LoginActivity.kt</url>
+          <line>80</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

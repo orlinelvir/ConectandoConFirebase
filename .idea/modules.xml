@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ConectandoConFirebase.iml" filepath="$PROJECT_DIR$/.idea/ConectandoConFirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConectandoConFirebase.iml" filepath="$PROJECT_DIR$/.idea/modules/ConectandoConFirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ConectandoConFirebase.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ConectandoConFirebase.app.iml" />
     </modules>
   </component>
 </project>
