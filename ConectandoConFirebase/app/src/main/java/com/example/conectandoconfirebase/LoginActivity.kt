@@ -43,7 +43,7 @@ class LoginActivity : AppCompatActivity() {
         //Validar que no exista otra instancia corriendo
         val usuario = FirebaseAuth.getInstance().currentUser
         if(usuario != null){
-            val intent = Intent(this, LoginActivity::class.java)
+            val intent = Intent(this, MainActivity1::class.java)
             startActivity(intent)
             //finish()
         }
@@ -89,7 +89,7 @@ class LoginActivity : AppCompatActivity() {
         val credenciales = GoogleAuthProvider.getCredential(acct.idToken, null)
         auth.signInWithCredential(credenciales).addOnCompleteListener{
             if(it.isSuccessful){
-                val intent = Intent(this, LoginActivity::class.java)
+                val intent = Intent(this, MainActivity1::class.java)
                 startActivity(intent)
             }else{
                 Toast.makeText(this,"Fallo inicio de sesión", Toast.LENGTH_LONG).show()
